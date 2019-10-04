@@ -4,6 +4,12 @@
 
 Minimalist Go package aimed at creating Console User Interfaces.
 
+## Fork changes
+
+The changes made in this for (which is used by [azbrowse](http://github.com/lawrencegripper/azbrowse)) are:
+
+ * Made Flush method public to enable redrawing after launching terminal-based editors
+
 ## Features
 
 * Minimalist API.
